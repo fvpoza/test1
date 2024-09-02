@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_dictionary_m2m">
+    <ais_search_profile_ais_dictionary_m2m action="INSERT_OR_UPDATE">
+        <dictionary display_value="x_76757_solicitu_0_gestin_de_prestamos_search_profile_default_spell_check_dictionary">215b4fc3c39452106addb7ddd401319c</dictionary>
+        <dictionary_reference_qualifier/>
+        <marked_for_deletion>false</marked_for_deletion>
+        <profile display_value="gestin-de-prestamos Search Profile">5b4b8bc3279452108f45ad050ef27188</profile>
+        <sys_class_name>ais_search_profile_ais_dictionary_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-02 09:24:41</sys_created_on>
+        <sys_id>a15b4fc3c39452106addb7ddd401319f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_76757_solicitu_0_gestin_de_prestamos_search_profile_default_spell_check_dictionary.gestin-de-prestamos Search Profile</sys_name>
+        <sys_package display_value="Solicitudes de préstamos" source="x_76757_solicitu_0">8c2e36c3c3dc12106addb7ddd401319e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Solicitudes de préstamos">8c2e36c3c3dc12106addb7ddd401319e</sys_scope>
+        <sys_update_name>ais_search_profile_ais_dictionary_m2m_a15b4fc3c39452106addb7ddd401319f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-02 09:24:41</sys_updated_on>
+    </ais_search_profile_ais_dictionary_m2m>
+</record_update>

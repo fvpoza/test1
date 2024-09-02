@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="ubicaci_n" label="Ubicación" language="en" table="x_76757_solicitu_0_activos_disponibles">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>ubicaci_n</element>
+            <help/>
+            <hint/>
+            <label>Ubicación</label>
+            <language>en</language>
+            <name>x_76757_solicitu_0_activos_disponibles</name>
+            <plural>Ubicacións</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-02 08:31:00</sys_created_on>
+            <sys_id>430ffa07c3dc12106addb7ddd4013176</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Ubicación</sys_name>
+            <sys_package display_value="Solicitudes de préstamos" source="x_76757_solicitu_0">8c2e36c3c3dc12106addb7ddd401319e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Solicitudes de préstamos">8c2e36c3c3dc12106addb7ddd401319e</sys_scope>
+            <sys_update_name>sys_documentation_x_76757_solicitu_0_activos_disponibles_ubicaci_n_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-02 08:31:00</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

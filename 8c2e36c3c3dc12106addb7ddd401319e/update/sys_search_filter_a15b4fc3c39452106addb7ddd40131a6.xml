@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_filter">
+    <sys_search_filter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ais_search_source display_value="Activos disponibles">2d5b4fc3c39452106addb7ddd401317d</ais_search_source>
+        <label>Activos disponibles</label>
+        <name>Activos disponibles</name>
+        <order>100</order>
+        <search_context_config display_value="Gestión de préstamos AI Search Configuration">934b8bc3069452101e5b251a1496eb80</search_context_config>
+        <sys_class_name>sys_search_filter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-02 09:24:41</sys_created_on>
+        <sys_id>a15b4fc3c39452106addb7ddd40131a6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Activos disponibles</sys_name>
+        <sys_package display_value="Solicitudes de préstamos" source="x_76757_solicitu_0">8c2e36c3c3dc12106addb7ddd401319e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Solicitudes de préstamos">8c2e36c3c3dc12106addb7ddd401319e</sys_scope>
+        <sys_update_name>sys_search_filter_a15b4fc3c39452106addb7ddd40131a6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-02 09:24:41</sys_updated_on>
+    </sys_search_filter>
+</record_update>

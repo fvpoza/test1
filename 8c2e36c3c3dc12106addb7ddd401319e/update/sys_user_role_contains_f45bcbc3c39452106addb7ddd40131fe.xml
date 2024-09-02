@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="canvas_user" name="canvas_user">8536f54bc713330072b211d4d8c26080</contains>
+        <role display_value="x_76757_solicitu_0.loaner_final_user" name="x_76757_solicitu_0.loaner_final_user">002e76c3c3dc12106addb7ddd4013127</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-02 09:24:38</sys_created_on>
+        <sys_id>f45bcbc3c39452106addb7ddd40131fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>canvas_user.x_76757_solicitu_0.loaner_final_user</sys_name>
+        <sys_package display_value="Solicitudes de préstamos" source="x_76757_solicitu_0">8c2e36c3c3dc12106addb7ddd401319e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Solicitudes de préstamos">8c2e36c3c3dc12106addb7ddd401319e</sys_scope>
+        <sys_update_name>sys_user_role_contains_f45bcbc3c39452106addb7ddd40131fe</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-02 09:24:38</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>
