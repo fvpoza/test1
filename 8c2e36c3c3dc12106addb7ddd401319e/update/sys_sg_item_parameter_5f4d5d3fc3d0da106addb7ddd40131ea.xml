@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="INSERT_OR_UPDATE">
+        <default_value/>
+        <name>Activos disponibles descripci_n</name>
+        <parent>db4d5d3fc3d0da106addb7ddd40131e6</parent>
+        <parent_table>sys_sg_write_back_action_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-04 09:19:23</sys_created_on>
+        <sys_id>5f4d5d3fc3d0da106addb7ddd40131ea</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Activos disponibles descripci_n</sys_name>
+        <sys_package display_value="Solicitudes de préstamos" source="x_76757_solicitu_0">8c2e36c3c3dc12106addb7ddd401319e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Solicitudes de préstamos">8c2e36c3c3dc12106addb7ddd401319e</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_5f4d5d3fc3d0da106addb7ddd40131ea</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-04 09:19:23</sys_updated_on>
+        <type>string</type>
+    </sys_sg_item_parameter>
+</record_update>

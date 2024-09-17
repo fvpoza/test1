@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="New Button (Activos disponibles)">9f4d5d3fc3d0da106addb7ddd4013142</button>
+        <color_theme/>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>New</label>
+        <location>top</location>
+        <name>New</name>
+        <order/>
+        <parent>4f4d1d3fc3d0da106addb7ddd4013186</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-04 09:19:23</sys_created_on>
+        <sys_id>934d5d3fc3d0da106addb7ddd40131c5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New</sys_name>
+        <sys_package display_value="Solicitudes de préstamos" source="x_76757_solicitu_0">8c2e36c3c3dc12106addb7ddd401319e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Solicitudes de préstamos">8c2e36c3c3dc12106addb7ddd401319e</sys_scope>
+        <sys_update_name>sys_sg_button_instance_934d5d3fc3d0da106addb7ddd40131c5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-04 09:19:23</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=934d5d3fc3d0da106addb7ddd40131c5"/>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>934d5d3fc3d0da106addb7ddd40131c5</documentkey>
+        <fieldname>description</fieldname>
+        <language>es</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-04 09:19:23</sys_created_on>
+        <sys_id>5f4d5d3fc3d0da106addb7ddd40131c5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-04 09:19:23</sys_updated_on>
+        <tablename>sys_sg_button_instance</tablename>
+        <value/>
+    </sys_translated_text>
+</record_update>

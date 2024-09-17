@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Solictudes de préstamo de HW" language="es" table="x_76757_solicitu_0_solicitudes_de_prestamo">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Solictudes de préstamo de HW</label>
+            <language>es</language>
+            <name>x_76757_solicitu_0_solicitudes_de_prestamo</name>
+            <plural>Solictudes de préstamo de HWs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-04 12:14:01</sys_created_on>
+            <sys_id>6945c2fbc3101e106addb7ddd4013146</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Solictudes de préstamo de HW</sys_name>
+            <sys_package display_value="Solicitudes de préstamos" source="x_76757_solicitu_0">8c2e36c3c3dc12106addb7ddd401319e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Solicitudes de préstamos">8c2e36c3c3dc12106addb7ddd401319e</sys_scope>
+            <sys_update_name>sys_documentation_x_76757_solicitu_0_solicitudes_de_prestamo__es</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-04 12:14:01</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

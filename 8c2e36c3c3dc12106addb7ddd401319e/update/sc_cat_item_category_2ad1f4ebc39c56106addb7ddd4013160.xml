@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Crear nuevo activo">fa7908a7c35456106addb7ddd4013124</sc_cat_item>
+        <sc_category display_value="Servicios departamentales">95fc11615f1211001c9b2572f2b477c6</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-03 11:31:04</sys_created_on>
+        <sys_id>2ad1f4ebc39c56106addb7ddd4013160</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Servicios departamentales.Crear nuevo activo</sys_name>
+        <sys_package display_value="Solicitudes de préstamos" source="x_76757_solicitu_0">8c2e36c3c3dc12106addb7ddd401319e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Solicitudes de préstamos">8c2e36c3c3dc12106addb7ddd401319e</sys_scope>
+        <sys_update_name>sc_cat_item_category_2ad1f4ebc39c56106addb7ddd4013160</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-03 11:31:04</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>

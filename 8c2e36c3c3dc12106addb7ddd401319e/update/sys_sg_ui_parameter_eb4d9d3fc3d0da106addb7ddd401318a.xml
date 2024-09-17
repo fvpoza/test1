@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
+    <sys_sg_ui_parameter action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button (Activos disponibles)">574d9d3fc3d0da106addb7ddd4013122</button>
+        <button_parent_table>x_76757_solicitu_0_activos_disponibles</button_parent_table>
+        <carried>false</carried>
+        <constant/>
+        <default_value/>
+        <default_value_type>source_field</default_value_type>
+        <field_name>number</field_name>
+        <input_source>user</input_source>
+        <input_style>inline</input_style>
+        <input_type>text</input_type>
+        <mandatory>false</mandatory>
+        <max_entries/>
+        <multi_entry>false</multi_entry>
+        <multi_select>false</multi_select>
+        <name>Number</name>
+        <order/>
+        <parameter_type>button</parameter_type>
+        <placeholder/>
+        <screen/>
+        <search_type>starts_with</search_type>
+        <source_field>number</source_field>
+        <sys_class_name>sys_sg_ui_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-04 09:19:24</sys_created_on>
+        <sys_id>eb4d9d3fc3d0da106addb7ddd401318a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Number</sys_name>
+        <sys_package display_value="Solicitudes de préstamos" source="x_76757_solicitu_0">8c2e36c3c3dc12106addb7ddd401319e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Solicitudes de préstamos">8c2e36c3c3dc12106addb7ddd401319e</sys_scope>
+        <sys_update_name>sys_sg_ui_parameter_eb4d9d3fc3d0da106addb7ddd401318a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-04 09:19:24</sys_updated_on>
+        <table_name>x_76757_solicitu_0_activos_disponibles</table_name>
+        <virtual_field_value>false</virtual_field_value>
+    </sys_sg_ui_parameter>
+    <sys_translated_text action="delete_multiple" query="documentkey=eb4d9d3fc3d0da106addb7ddd401318a"/>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>eb4d9d3fc3d0da106addb7ddd401318a</documentkey>
+        <fieldname>placeholder</fieldname>
+        <language>es</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-04 09:19:24</sys_created_on>
+        <sys_id>a74d9d3fc3d0da106addb7ddd401318b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-04 09:19:24</sys_updated_on>
+        <tablename>sys_sg_ui_parameter</tablename>
+        <value/>
+    </sys_translated_text>
+</record_update>

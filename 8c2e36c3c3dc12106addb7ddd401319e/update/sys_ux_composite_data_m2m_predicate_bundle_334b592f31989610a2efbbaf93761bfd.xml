@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_predicate_bundle">
+    <sys_ux_composite_data_m2m_predicate_bundle action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Landing - My Tasks Dataset">374b992f39989610b5e7740d2ebad402</dataset>
+        <order/>
+        <predicate_bundle display_value="My Tasks - Task bundle">ff4b592faf989610ddfb4e9235500ffd</predicate_bundle>
+        <sys_class_name>sys_ux_composite_data_m2m_predicate_bundle</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-09-03 14:32:18</sys_created_on>
+        <sys_id>334b592f31989610a2efbbaf93761bfd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Solicitudes de préstamos" source="x_76757_solicitu_0">8c2e36c3c3dc12106addb7ddd401319e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Solicitudes de préstamos">8c2e36c3c3dc12106addb7ddd401319e</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_predicate_bundle_334b592f31989610a2efbbaf93761bfd</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-09-03 14:32:18</sys_updated_on>
+    </sys_ux_composite_data_m2m_predicate_bundle>
+</record_update>

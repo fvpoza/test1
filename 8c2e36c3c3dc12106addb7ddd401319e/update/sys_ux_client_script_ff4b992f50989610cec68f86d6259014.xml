@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <controller_preset/>
+        <includes/>
+        <macroponent display_value="Landing Page">7f4b992fb4989610c1805655fcafa726</macroponent>
+        <name>Fetch my requests</name>
+        <preset/>
+        <required_translations>[ {
+  "code" : null,
+  "message" : "Completion date: {0}",
+  "comment" : ""
+} ]</required_translations>
+        <script><![CDATA[/**
+ * @param {params} params
+ * @param {api} params.api
+ * @param {any} params.event
+ * @param {any} params.imports
+ * @param {ApiHelpers} params.helpers
+ */
+async function handler({
+    api,
+    event,
+    helpers,
+    imports
+}) {
+    var input = api.data.evam_myrequests.compositeDataViews;
+    for (var i = 0; i < input.items.length; i++) {
+        var model = input.items[i].propValues;
+        var currDate = new Date();
+        var dueDate = new Date(model.model.due_date);
+        const duedateLabel = [dueDate.getFullYear(), dueDate.getMonth() + 1, dueDate.getDate()].join('-');
+        var price = model.model.price;
+        if (model.model.table == "sc_req_item") {
+            if (model.model.due_date != "") {
+                model.highlightedHeaderLabel = await helpers.translate("Completion date: {0}", duedateLabel);
+                if (currDate.getTime() > dueDate.getTime()) {
+                    model.highlightedHeaderBkgColor = "critical";
+                }
+            }
+            if (model.model.recurring_frequency != null)
+                model.subtitle = model.subtitle + " + " + model.model.recurring_price + " " + model.model.recurring_frequency;
+            if (price.substring(1) == "0.00" && model.model.recurring_frequency == null)
+                model.subtitle = " ";
+        } else {
+            if (model.model.due_date != "") {
+                model.highlightedHeaderLabel = await helpers.translate("Completion date: {0}", duedateLabel);
+                if (currDate.getTime() > dueDate.getTime()) {
+                    model.highlightedHeaderBkgColor = "critical";
+                }
+            }
+        }
+    }
+    api.setState('requestData', input);
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-09-03 14:32:18</sys_created_on>
+        <sys_id>ff4b992f50989610cec68f86d6259014</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Fetch my requests</sys_name>
+        <sys_package display_value="Solicitudes de préstamos" source="x_76757_solicitu_0">8c2e36c3c3dc12106addb7ddd401319e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Solicitudes de préstamos">8c2e36c3c3dc12106addb7ddd401319e</sys_scope>
+        <sys_update_name>sys_ux_client_script_ff4b992f50989610cec68f86d6259014</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-09-03 14:32:18</sys_updated_on>
+        <target/>
+        <type>default</type>
+    </sys_ux_client_script>
+</record_update>

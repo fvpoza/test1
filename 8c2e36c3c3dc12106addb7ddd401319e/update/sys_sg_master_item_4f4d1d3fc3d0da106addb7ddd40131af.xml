@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order/>
+        <datasource_table>x_76757_solicitu_0_activos_disponibles</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="Activos disponibles Form Screen">874d1d3fc3d0da106addb7ddd401318b</embedded_screen>
+        <item_view/>
+        <name>Activos disponibles Form Screen Master Item</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-04 09:19:22</sys_created_on>
+        <sys_id>4f4d1d3fc3d0da106addb7ddd40131af</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Activos disponibles Form Screen Master Item</sys_name>
+        <sys_package display_value="Solicitudes de préstamos" source="x_76757_solicitu_0">8c2e36c3c3dc12106addb7ddd401319e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Solicitudes de préstamos">8c2e36c3c3dc12106addb7ddd401319e</sys_scope>
+        <sys_update_name>sys_sg_master_item_4f4d1d3fc3d0da106addb7ddd40131af</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-04 09:19:22</sys_updated_on>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="Activos disponibles List Screen View Config">a24d993fc3d0da106addb7ddd40131c9</view_config>
+    </sys_sg_master_item>
+</record_update>

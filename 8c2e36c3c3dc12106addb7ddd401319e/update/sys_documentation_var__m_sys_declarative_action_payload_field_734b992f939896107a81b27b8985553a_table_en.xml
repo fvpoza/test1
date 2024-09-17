@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="table" label="table" language="en" table="var__m_sys_declarative_action_payload_field_734b992f939896107a81b27b8985553a">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>table</element>
+            <help/>
+            <hint/>
+            <label>table</label>
+            <language>en</language>
+            <name>var__m_sys_declarative_action_payload_field_734b992f939896107a81b27b8985553a</name>
+            <plural>table</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2024-09-03 14:32:12</sys_created_on>
+            <sys_id>334b992f02989610afb0d21936f0ee38</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>table</sys_name>
+            <sys_package display_value="Solicitudes de préstamos" source="x_76757_solicitu_0">8c2e36c3c3dc12106addb7ddd401319e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Solicitudes de préstamos">8c2e36c3c3dc12106addb7ddd401319e</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_declarative_action_payload_field_734b992f939896107a81b27b8985553a_table_en</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2024-09-03 14:32:12</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

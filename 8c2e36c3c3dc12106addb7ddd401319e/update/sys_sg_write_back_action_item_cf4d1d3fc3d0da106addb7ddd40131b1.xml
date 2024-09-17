@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="INSERT_OR_UPDATE">
+        <description/>
+        <execution_script/>
+        <name>Delete</name>
+        <parameter_screen/>
+        <query_condition/>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-04 09:19:22</sys_created_on>
+        <sys_id>cf4d1d3fc3d0da106addb7ddd40131b1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Delete</sys_name>
+        <sys_package display_value="Solicitudes de préstamos" source="x_76757_solicitu_0">8c2e36c3c3dc12106addb7ddd401319e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Solicitudes de préstamos">8c2e36c3c3dc12106addb7ddd401319e</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_cf4d1d3fc3d0da106addb7ddd40131b1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-04 09:19:22</sys_updated_on>
+        <table>x_76757_solicitu_0_activos_disponibles</table>
+        <template/>
+        <type>delete</type>
+        <use_current_record_as_condition>true</use_current_record_as_condition>
+        <use_fields_for_ref_lookup>false</use_fields_for_ref_lookup>
+    </sys_sg_write_back_action_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=cf4d1d3fc3d0da106addb7ddd40131b1"/>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>cf4d1d3fc3d0da106addb7ddd40131b1</documentkey>
+        <fieldname>description</fieldname>
+        <language>es</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-04 09:19:22</sys_created_on>
+        <sys_id>4b4d1d3fc3d0da106addb7ddd40131b2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-04 09:19:22</sys_updated_on>
+        <tablename>sys_sg_write_back_action_item</tablename>
+        <value/>
+    </sys_translated_text>
+</record_update>

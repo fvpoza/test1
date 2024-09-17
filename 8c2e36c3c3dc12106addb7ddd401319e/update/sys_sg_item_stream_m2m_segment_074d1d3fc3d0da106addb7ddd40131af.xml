@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_segment">
+    <sys_sg_item_stream_m2m_segment action="INSERT_OR_UPDATE">
+        <item_stream display_value="4f4d1d3fc3d0da106addb7ddd4013186 Item Stream">cb4d1d3fc3d0da106addb7ddd40131ad</item_stream>
+        <segment display_value="Activos disponibles Item Stream Segment">474d1d3fc3d0da106addb7ddd40131ac</segment>
+        <sys_class_name>sys_sg_item_stream_m2m_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-04 09:19:22</sys_created_on>
+        <sys_id>074d1d3fc3d0da106addb7ddd40131af</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Solicitudes de préstamos" source="x_76757_solicitu_0">8c2e36c3c3dc12106addb7ddd401319e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Solicitudes de préstamos">8c2e36c3c3dc12106addb7ddd401319e</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_segment_074d1d3fc3d0da106addb7ddd40131af</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-04 09:19:22</sys_updated_on>
+    </sys_sg_item_stream_m2m_segment>
+</record_update>
