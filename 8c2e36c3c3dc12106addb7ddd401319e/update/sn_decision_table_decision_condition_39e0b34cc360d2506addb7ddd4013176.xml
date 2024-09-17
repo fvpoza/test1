@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_decision_table_decision_condition">
     <sn_decision_table_decision_condition action="INSERT_OR_UPDATE">
         <decision_input display_value="Impacto en el negocio">9de07fc0c3a0d2506addb7ddd4013155</decision_input>
-        <decision_table display_value="Tabla de decisiones">cc3daf8cc360d2506addb7ddd40131ec</decision_table>
+        <decision_table display_value="Decidir la prioridad de una solicitud">cc3daf8cc360d2506addb7ddd40131ec</decision_table>
         <default_operator>=</default_operator>
         <description/>
         <field/>

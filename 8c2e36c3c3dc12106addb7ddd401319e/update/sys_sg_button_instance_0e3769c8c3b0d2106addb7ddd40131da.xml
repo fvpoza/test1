@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Category &gt; Catalog Item">03d86a6487db2300e0ef0cf888cb0bc8</button>
+        <color_theme/>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>Solicitar</label>
+        <location>quick_action</location>
+        <name>Solicitar</name>
+        <order/>
+        <parent>ea4d993fc3d0da106addb7ddd4013142</parent>
+        <parent_table>sys_sg_applet_launcher</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-17 14:56:54</sys_created_on>
+        <sys_id>0e3769c8c3b0d2106addb7ddd40131da</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Solicitar</sys_name>
+        <sys_package display_value="Solicitudes de préstamos" source="x_76757_solicitu_0">8c2e36c3c3dc12106addb7ddd401319e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Solicitudes de préstamos">8c2e36c3c3dc12106addb7ddd401319e</sys_scope>
+        <sys_update_name>sys_sg_button_instance_0e3769c8c3b0d2106addb7ddd40131da</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-17 14:56:54</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=0e3769c8c3b0d2106addb7ddd40131da"/>
+</record_update>

@@ -2,7 +2,7 @@
     <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
         <active>true</active>
         <applet_launcher display_value="Prestamos de Hardware">ea4d993fc3d0da106addb7ddd4013142</applet_launcher>
-        <icon display_value="Archivo">2e4d993fc3d0da106addb7ddd4013140</icon>
+        <icon display_value="File">2e4d993fc3d0da106addb7ddd4013140</icon>
         <label>Prestamos de Hardware</label>
         <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
         <sys_created_by>admin</sys_created_by>

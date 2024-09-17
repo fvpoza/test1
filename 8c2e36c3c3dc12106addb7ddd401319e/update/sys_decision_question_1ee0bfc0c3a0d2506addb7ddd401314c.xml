@@ -3,7 +3,7 @@
         <active>true</active>
         <answer>71e07fc0c3a0d2506addb7ddd40131e5</answer>
         <condition/>
-        <decision_table display_value="Tabla de decisiones">cc3daf8cc360d2506addb7ddd40131ec</decision_table>
+        <decision_table display_value="Decidir la prioridad de una solicitud">cc3daf8cc360d2506addb7ddd40131ec</decision_table>
         <default_answer>true</default_answer>
         <input_table>var__m_sys_decision_input_cc3daf8cc360d2506addb7ddd40131ec</input_table>
         <label>Tabla de decisiones default result</label>

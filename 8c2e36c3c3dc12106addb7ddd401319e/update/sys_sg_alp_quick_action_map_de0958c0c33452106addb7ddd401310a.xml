@@ -2,7 +2,7 @@
     <sys_sg_alp_quick_action_map action="INSERT_OR_UPDATE">
         <applet_launcher display_value="Prestamos de Hardware">ea4d993fc3d0da106addb7ddd4013142</applet_launcher>
         <order/>
-        <quick_action_button display_value="New function instance">1a0958c0c33452106addb7ddd4013105</quick_action_button>
+        <quick_action_button/>
         <sys_class_name>sys_sg_alp_quick_action_map</sys_class_name>
         <sys_created_by>Paco</sys_created_by>
         <sys_created_on>2024-09-17 09:15:18</sys_created_on>

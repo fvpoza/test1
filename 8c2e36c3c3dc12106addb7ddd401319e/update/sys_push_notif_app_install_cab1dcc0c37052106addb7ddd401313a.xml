@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_push_notif_app_install">
+    <sys_push_notif_app_install action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <last_registered_on>2024-09-17 10:56:06</last_registered_on>
+        <send_badge_count>true</send_badge_count>
+        <sys_class_name>sys_push_notif_app_install</sys_class_name>
+        <sys_created_by>Paco</sys_created_by>
+        <sys_created_on>2024-09-17 08:43:20</sys_created_on>
+        <sys_id>cab1dcc0c37052106addb7ddd401313a</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>cT2gx1ApQKqb3OnLWup5GK:APA91bEKJhiD5PK6eXjHHvGnPe13TYPEtMRRvbhoNEDYdmW5iXaNc13txmkKaOt_Xoj7iYIp0dm4t49te35I7RjO_CVVQtE2KC1J7h42XxrJ8XHPpTW4pSsLtuQNWkUUwynmsMoVFWKB</sys_name>
+        <sys_package display_value="Solicitudes de préstamos" source="x_76757_solicitu_0">8c2e36c3c3dc12106addb7ddd401319e</sys_package>
+        <sys_policy/>
+        <sys_push_application_id display_value="ServiceNow Mobile Application">05ed2fb177002300258da2e2c81061c2</sys_push_application_id>
+        <sys_push_platform_id display_value="Google">53e75f30ff0002009738ffffffffff12</sys_push_platform_id>
+        <sys_scope display_value="Solicitudes de préstamos">8c2e36c3c3dc12106addb7ddd401319e</sys_scope>
+        <sys_update_name>sys_push_notif_app_install_cab1dcc0c37052106addb7ddd401313a</sys_update_name>
+        <sys_updated_by>Paco</sys_updated_by>
+        <sys_updated_on>2024-09-17 10:56:06</sys_updated_on>
+        <sys_user_id display_value="Francisco Vicente Poza">ffbec044c33c12106addb7ddd401319a</sys_user_id>
+        <token>cT2gx1ApQKqb3OnLWup5GK:APA91bEKJhiD5PK6eXjHHvGnPe13TYPEtMRRvbhoNEDYdmW5iXaNc13txmkKaOt_Xoj7iYIp0dm4t49te35I7RjO_CVVQtE2KC1J7h42XxrJ8XHPpTW4pSsLtuQNWkUUwynmsMoVFWKB</token>
+    </sys_push_notif_app_install>
+</record_update>

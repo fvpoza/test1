@@ -13,7 +13,7 @@
         <label>Activos disponibles</label>
         <live_feed_enabled>false</live_feed_enabled>
         <name>x_76757_solicitu_0_activos_disponibles</name>
-        <number_ref/>
+        <number_ref display_value="ACT">cb0ffa07c3dc12106addb7ddd4013154</number_ref>
         <provider_class/>
         <read_access>true</read_access>
         <scriptable_table>false</scriptable_table>
@@ -22,14 +22,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-09-02 08:30:59</sys_created_on>
         <sys_id>fe0ffa07c3dc12106addb7ddd401312f</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Solicitu 0 Activos Disponibles</sys_name>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Activos disponibles</sys_name>
         <sys_package display_value="Solicitudes de préstamos" source="x_76757_solicitu_0">8c2e36c3c3dc12106addb7ddd401319e</sys_package>
         <sys_policy/>
         <sys_scope display_value="Solicitudes de préstamos">8c2e36c3c3dc12106addb7ddd401319e</sys_scope>
         <sys_update_name>sys_db_object_fe0ffa07c3dc12106addb7ddd401312f</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-09-02 08:30:59</sys_updated_on>
+        <sys_updated_on>2024-09-02 08:31:00</sys_updated_on>
         <update_access>true</update_access>
         <user_role/>
         <ws_access>true</ws_access>

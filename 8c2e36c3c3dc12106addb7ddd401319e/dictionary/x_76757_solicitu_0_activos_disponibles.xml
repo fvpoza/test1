@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="fe0ffa07c3dc12106addb7ddd401312f" label="Activos disponibles" max_length="40" name="x_76757_solicitu_0_activos_disponibles" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Nombre" max_length="40" name="nombre" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Disponible" max_length="40" name="disponible" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Descripción" max_length="40" name="descripci_n" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Ubicación" max_length="40" name="ubicaci_n" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Num. Serie" max_length="40" name="num_serie" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Tipo de dispositivo" max_length="40" name="tipo_de_dispositivo" type="string"/>
+    </element>
+</database>

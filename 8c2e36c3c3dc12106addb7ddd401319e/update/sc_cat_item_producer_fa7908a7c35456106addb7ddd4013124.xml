@@ -6,7 +6,7 @@
         <availability>on_desktop</availability>
         <billable>false</billable>
         <can_cancel>false</can_cancel>
-        <category display_value="Servicios departamentales">95fc11615f1211001c9b2572f2b477c6</category>
+        <category display_value="Departmental Services">95fc11615f1211001c9b2572f2b477c6</category>
         <checked_out/>
         <cost>0</cost>
         <custom_cart/>
@@ -98,7 +98,7 @@
         <sys_updated_by>system</sys_updated_by>
         <sys_updated_on>2024-09-03 10:40:10</sys_updated_on>
         <table_name>x_76757_solicitu_0_activos_disponibles</table_name>
-        <taxonomy_topic display_value="Servicios de tecnología">06d3df67c3053010069aec4b7d40dd70</taxonomy_topic>
+        <taxonomy_topic display_value="Technology services">06d3df67c3053010069aec4b7d40dd70</taxonomy_topic>
         <template/>
         <template_manager_roles/>
         <type>item</type>

@@ -7,7 +7,7 @@
         <event_mappings>[
     
 ]</event_mappings>
-        <macroponent display_value="Activos disponibles">695b4fc3c39452106addb7ddd40131ee</macroponent>
+        <macroponent display_value="Activos disponibles Record Page">695b4fc3c39452106addb7ddd40131ee</macroponent>
         <macroponent_config>{
     "bare": {
         "type": "JSON_LITERAL",

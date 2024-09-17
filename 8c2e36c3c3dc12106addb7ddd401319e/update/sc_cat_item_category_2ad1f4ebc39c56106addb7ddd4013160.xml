@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
     <sc_cat_item_category action="INSERT_OR_UPDATE">
         <sc_cat_item display_value="Crear nuevo activo">fa7908a7c35456106addb7ddd4013124</sc_cat_item>
-        <sc_category display_value="Servicios departamentales">95fc11615f1211001c9b2572f2b477c6</sc_category>
+        <sc_category display_value="Departmental Services">95fc11615f1211001c9b2572f2b477c6</sc_category>
         <sys_class_name>sc_cat_item_category</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-09-03 11:31:04</sys_created_on>

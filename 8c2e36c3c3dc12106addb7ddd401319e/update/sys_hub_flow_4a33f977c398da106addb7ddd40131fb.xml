@@ -681,7 +681,7 @@
         <block display_value="">2e16bb84c324d2506addb7ddd40131e9</block>
         <comment/>
         <connected_to/>
-        <decision_table display_value="Tabla de decisiones">cc3daf8cc360d2506addb7ddd40131ec</decision_table>
+        <decision_table display_value="Decidir la prioridad de una solicitud">cc3daf8cc360d2506addb7ddd40131ec</decision_table>
         <decision_table_inputs/>
         <display_text/>
         <extended_inputs/>

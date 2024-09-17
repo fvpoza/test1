@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Task table schema" source="com.glide.task">c84cbf2af832021008dd9cfea425ac5e</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-02 08:57:26</sys_created_on>
+        <sys_id>d21583cfc31452106addb7ddd40131f6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Solicitudes de préstamos" source="x_76757_solicitu_0">8c2e36c3c3dc12106addb7ddd401319e</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-02 08:57:26</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

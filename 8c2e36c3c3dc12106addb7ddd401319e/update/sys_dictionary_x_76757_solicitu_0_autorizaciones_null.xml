@@ -32,7 +32,7 @@
         <formula/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="Recopilación">collection</internal_type>
+        <internal_type display_value="Collection">collection</internal_type>
         <mandatory>false</mandatory>
         <max_length>40</max_length>
         <name>x_76757_solicitu_0_autorizaciones</name>
@@ -52,7 +52,6 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-09-04 14:08:22</sys_created_on>
-        <sys_id>687f123fc3d41e106addb7ddd4013123</sys_id>
         <sys_name>x_76757_solicitu_0_autorizaciones</sys_name>
         <sys_package display_value="Solicitudes de préstamos" source="x_76757_solicitu_0">8c2e36c3c3dc12106addb7ddd401319e</sys_package>
         <sys_policy/>

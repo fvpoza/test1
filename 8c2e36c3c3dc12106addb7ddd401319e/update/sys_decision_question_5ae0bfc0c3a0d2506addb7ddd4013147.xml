@@ -6,7 +6,7 @@
             <item display_value="Bajo" endquery="false" field="u_impacto_en_el_negocio" goto="false" newquery="false" operator="=" or="false" value="bajo"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </condition>
-        <decision_table display_value="Tabla de decisiones">cc3daf8cc360d2506addb7ddd40131ec</decision_table>
+        <decision_table display_value="Decidir la prioridad de una solicitud">cc3daf8cc360d2506addb7ddd40131ec</decision_table>
         <default_answer>false</default_answer>
         <input_table>var__m_sys_decision_input_cc3daf8cc360d2506addb7ddd40131ec</input_table>
         <label>Tabla de decisiones_800</label>

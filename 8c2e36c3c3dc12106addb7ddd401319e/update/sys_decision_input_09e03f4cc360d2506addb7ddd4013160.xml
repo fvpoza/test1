@@ -13,7 +13,7 @@
         <choice>1</choice>
         <choice_field/>
         <choice_table/>
-        <column_label/>
+        <column_label>Urgencia del usuario</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -38,7 +38,7 @@
         <label>Urgencia del usuario</label>
         <mandatory>true</mandatory>
         <max_length>40</max_length>
-        <model display_value="Tabla de decisiones">cc3daf8cc360d2506addb7ddd40131ec</model>
+        <model display_value="Decidir la prioridad de una solicitud">cc3daf8cc360d2506addb7ddd40131ec</model>
         <model_id>cc3daf8cc360d2506addb7ddd40131ec</model_id>
         <model_table>sys_decision</model_table>
         <name>var__m_sys_decision_input_cc3daf8cc360d2506addb7ddd40131ec</name>

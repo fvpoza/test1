@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="a85fdebbc3d41e106addb7ddd4013140" extends="task" label="Autorizaciones" max_length="40" name="x_76757_solicitu_0_autorizaciones" type="collection"/>
+</database>

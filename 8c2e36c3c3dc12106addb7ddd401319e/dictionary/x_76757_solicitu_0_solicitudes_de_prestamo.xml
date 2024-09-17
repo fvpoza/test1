@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="5e1503cfc31452106addb7ddd4013105" extends="task" label="Solicitudes de préstamo" max_length="40" name="x_76757_solicitu_0_solicitudes_de_prestamo" text_index="true" type="collection">
+        <element label="Activo" mandatory="true" max_length="32" name="activo" reference="x_76757_solicitu_0_activos_disponibles" type="reference"/>
+    </element>
+</database>

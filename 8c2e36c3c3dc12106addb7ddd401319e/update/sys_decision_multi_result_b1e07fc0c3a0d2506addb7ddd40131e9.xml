@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_decision_multi_result">
     <sys_decision_multi_result action="INSERT_OR_UPDATE">
-        <decision_table display_value="Tabla de decisiones">cc3daf8cc360d2506addb7ddd40131ec</decision_table>
+        <decision_table display_value="Decidir la prioridad de una solicitud">cc3daf8cc360d2506addb7ddd40131ec</decision_table>
         <label>Prioridad resultante: Alta</label>
         <result_elements/>
         <sys_class_name>sys_decision_multi_result</sys_class_name>

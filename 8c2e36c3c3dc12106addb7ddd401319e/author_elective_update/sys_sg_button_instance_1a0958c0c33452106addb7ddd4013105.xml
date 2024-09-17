@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="DELETE">
+        <active>true</active>
+        <button display_value="Category &gt; Catalog Item">03d86a6487db2300e0ef0cf888cb0bc8</button>
+        <color_theme>positive</color_theme>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon display_value="Hardware">0f4d1d3fc3d0da106addb7ddd4013185</icon>
+        <label>Solicitud de préstamo</label>
+        <location>quick_action</location>
+        <name>New function instance</name>
+        <order/>
+        <parent>ea4d993fc3d0da106addb7ddd4013142</parent>
+        <parent_table>sys_sg_applet_launcher</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>Paco</sys_created_by>
+        <sys_created_on>2024-09-17 09:15:18</sys_created_on>
+        <sys_id>1a0958c0c33452106addb7ddd4013105</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New function instance</sys_name>
+        <sys_package display_value="Solicitudes de préstamos" source="x_76757_solicitu_0">8c2e36c3c3dc12106addb7ddd401319e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Solicitudes de préstamos">8c2e36c3c3dc12106addb7ddd401319e</sys_scope>
+        <sys_update_name>sys_sg_button_instance_1a0958c0c33452106addb7ddd4013105</sys_update_name>
+        <sys_updated_by>Paco</sys_updated_by>
+        <sys_updated_on>2024-09-17 09:15:18</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="DELETE" query="documentkey=1a0958c0c33452106addb7ddd4013105"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Solicitudes de préstamos">8c2e36c3c3dc12106addb7ddd401319e</application>
+        <file_path/>
+        <instance_id>15ee4a69eb7ac250c040fddacad0cd52</instance_id>
+        <instance_name>dev275433</instance_name>
+        <name>sys_sg_button_instance_1a0958c0c33452106addb7ddd4013105</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance"><sys_sg_button_instance action="INSERT_OR_UPDATE"><active>true</active><button display_value="Category &gt; Catalog Item">03d86a6487db2300e0ef0cf888cb0bc8</button><color_theme>positive</color_theme><description/><disable_offline>false</disable_offline><field_name/><icon display_value="Hardware">0f4d1d3fc3d0da106addb7ddd4013185</icon><label>Solicitud de préstamo</label><location>quick_action</location><name>New function instance</name><order/><parent>ea4d993fc3d0da106addb7ddd4013142</parent><parent_table>sys_sg_applet_launcher</parent_table><sys_class_name>sys_sg_button_instance</sys_class_name><sys_created_by>Paco</sys_created_by><sys_created_on>2024-09-17 09:15:18</sys_created_on><sys_id>1a0958c0c33452106addb7ddd4013105</sys_id><sys_mod_count>0</sys_mod_count><sys_name>New function instance</sys_name><sys_package display_value="Solicitudes de préstamos" source="x_76757_solicitu_0">8c2e36c3c3dc12106addb7ddd401319e</sys_package><sys_policy/><sys_scope display_value="Solicitudes de préstamos">8c2e36c3c3dc12106addb7ddd401319e</sys_scope><sys_update_name>sys_sg_button_instance_1a0958c0c33452106addb7ddd4013105</sys_update_name><sys_updated_by>Paco</sys_updated_by><sys_updated_on>2024-09-17 09:15:18</sys_updated_on><table/></sys_sg_button_instance><sys_translated_text action="delete_multiple" query="documentkey=1a0958c0c33452106addb7ddd4013105"/></record_update>]]></payload>
+        <payload_hash>1731350544</payload_hash>
+        <record_name>New function instance</record_name>
+        <reverted_from/>
+        <source>042e36c3c3dc12106addb7ddd40131a1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Paco</sys_created_by>
+        <sys_created_on>2024-09-17 09:15:18</sys_created_on>
+        <sys_id>1a0958c0c33452106addb7ddd401310a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>191ff43cbdf0000001</sys_recorded_at>
+        <sys_updated_by>Paco</sys_updated_by>
+        <sys_updated_on>2024-09-17 09:15:18</sys_updated_on>
+        <type>Function instance</type>
+        <update_guid>da0958c0d834521066c7020b4ca1b109</update_guid>
+        <update_guid_history>da0958c0d834521066c7020b4ca1b109:1731350544</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Paco</sys_created_by>
+        <sys_created_on>2024-09-17 09:37:30</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_button_instance">sys_sg_button_instance</sys_db_object>
+        <sys_id>08c5e225912e43d083b432dda4a0b304</sys_id>
+        <sys_metadata>1a0958c0c33452106addb7ddd4013105</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New function instance</sys_name>
+        <sys_package display_value="Solicitudes de préstamos" source="x_76757_solicitu_0">8c2e36c3c3dc12106addb7ddd401319e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Solicitudes de préstamos">8c2e36c3c3dc12106addb7ddd401319e</sys_scope>
+        <sys_scope_delete display_value="">2a55c8f2e382492ab5706862d58c64f9</sys_scope_delete>
+        <sys_update_name>sys_sg_button_instance_1a0958c0c33452106addb7ddd4013105</sys_update_name>
+        <sys_update_version display_value="sys_sg_button_instance_1a0958c0c33452106addb7ddd4013105">1a0958c0c33452106addb7ddd401310a</sys_update_version>
+        <sys_updated_by>Paco</sys_updated_by>
+        <sys_updated_on>2024-09-17 09:37:30</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

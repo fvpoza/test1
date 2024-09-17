@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Crear nuevo activo">fa7908a7c35456106addb7ddd4013124</sc_cat_item>
+        <sc_catalog display_value="Catálogo de servicios">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-03 10:24:25</sys_created_on>
+        <sys_id>86922c67c3d856106addb7ddd40131bd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Catálogo de servicios.Crear nuevo activo</sys_name>
+        <sys_package display_value="Solicitudes de préstamos" source="x_76757_solicitu_0">8c2e36c3c3dc12106addb7ddd401319e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Solicitudes de préstamos">8c2e36c3c3dc12106addb7ddd401319e</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_86922c67c3d856106addb7ddd40131bd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-03 10:24:25</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Solicitudes de préstamos">8c2e36c3c3dc12106addb7ddd401319e</application>
+        <file_path/>
+        <instance_id>15ee4a69eb7ac250c040fddacad0cd52</instance_id>
+        <instance_name>dev275433</instance_name>
+        <name>sc_cat_item_catalog_86922c67c3d856106addb7ddd40131bd</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Crear nuevo activo">fa7908a7c35456106addb7ddd4013124</sc_cat_item><sc_catalog display_value="Catálogo de servicios">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-03 10:24:25</sys_created_on><sys_id>86922c67c3d856106addb7ddd40131bd</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Catálogo de servicios.Crear nuevo activo</sys_name><sys_package display_value="Solicitudes de préstamos" source="x_76757_solicitu_0">8c2e36c3c3dc12106addb7ddd401319e</sys_package><sys_policy/><sys_scope display_value="Solicitudes de préstamos">8c2e36c3c3dc12106addb7ddd401319e</sys_scope><sys_update_name>sc_cat_item_catalog_86922c67c3d856106addb7ddd40131bd</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-03 10:24:25</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>1611365418</payload_hash>
+        <record_name>Catálogo de servicios.Crear nuevo activo</record_name>
+        <reverted_from/>
+        <source>042e36c3c3dc12106addb7ddd40131a1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-03 10:24:25</sys_created_on>
+        <sys_id>ce922c67c3d856106addb7ddd40131c0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>191b76a080e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-03 10:24:25</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>02922c6748d85610e66be831c1381fc0</update_guid>
+        <update_guid_history>02922c6748d85610e66be831c1381fc0:1611365418</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Catálogo de servicios.Crear nuevo activo">4d362cabc31c56106addb7ddd401315e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-03 10:40:11</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>20302ba114024d5fa102e734be271b11</sys_id>
+        <sys_metadata>86922c67c3d856106addb7ddd40131bd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Catálogo de servicios.Crear nuevo activo</sys_name>
+        <sys_package display_value="Solicitudes de préstamos" source="x_76757_solicitu_0">8c2e36c3c3dc12106addb7ddd401319e</sys_package>
+        <sys_parent display_value="Crear nuevo activo">fa7908a7c35456106addb7ddd4013124</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Solicitudes de préstamos">8c2e36c3c3dc12106addb7ddd401319e</sys_scope>
+        <sys_scope_delete display_value="">2a55c8f2e382492ab5706862d58c64f9</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_86922c67c3d856106addb7ddd40131bd</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_86922c67c3d856106addb7ddd40131bd">ce922c67c3d856106addb7ddd40131c0</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-03 10:40:11</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

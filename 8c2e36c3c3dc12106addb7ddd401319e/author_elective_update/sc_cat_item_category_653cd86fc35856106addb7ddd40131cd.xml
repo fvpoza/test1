@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Crear nuevo activo">fa7908a7c35456106addb7ddd4013124</sc_cat_item>
+        <sc_category display_value="Servicios departamentales">95fc11615f1211001c9b2572f2b477c6</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-03 09:56:31</sys_created_on>
+        <sys_id>653cd86fc35856106addb7ddd40131cd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Servicios departamentales.Crear nuevo activo</sys_name>
+        <sys_package display_value="Solicitudes de préstamos" source="x_76757_solicitu_0">8c2e36c3c3dc12106addb7ddd401319e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Solicitudes de préstamos">8c2e36c3c3dc12106addb7ddd401319e</sys_scope>
+        <sys_update_name>sc_cat_item_category_653cd86fc35856106addb7ddd40131cd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-03 09:56:31</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Solicitudes de préstamos">8c2e36c3c3dc12106addb7ddd401319e</application>
+        <file_path/>
+        <instance_id>15ee4a69eb7ac250c040fddacad0cd52</instance_id>
+        <instance_name>dev275433</instance_name>
+        <name>sc_cat_item_category_653cd86fc35856106addb7ddd40131cd</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Crear nuevo activo">fa7908a7c35456106addb7ddd4013124</sc_cat_item><sc_category display_value="Servicios departamentales">95fc11615f1211001c9b2572f2b477c6</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-03 09:56:31</sys_created_on><sys_id>653cd86fc35856106addb7ddd40131cd</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Servicios departamentales.Crear nuevo activo</sys_name><sys_package display_value="Solicitudes de préstamos" source="x_76757_solicitu_0">8c2e36c3c3dc12106addb7ddd401319e</sys_package><sys_policy/><sys_scope display_value="Solicitudes de préstamos">8c2e36c3c3dc12106addb7ddd401319e</sys_scope><sys_update_name>sc_cat_item_category_653cd86fc35856106addb7ddd40131cd</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-03 09:56:31</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-1374011152</payload_hash>
+        <record_name>Servicios departamentales.Crear nuevo activo</record_name>
+        <reverted_from/>
+        <source>042e36c3c3dc12106addb7ddd40131a1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-03 09:56:31</sys_created_on>
+        <sys_id>253cd86fc35856106addb7ddd40131d3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>191b7507e7a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-03 09:56:31</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>253cd86f80585610ddaff1b00cda38d2</update_guid>
+        <update_guid_history>253cd86f80585610ddaff1b00cda38d2:-1374011152</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Servicios departamentales.Crear nuevo activo">7681e427c3d856106addb7ddd40131a9</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-03 10:19:49</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>8488aff0bb3c4a5f96cc91376b2247e1</sys_id>
+        <sys_metadata>653cd86fc35856106addb7ddd40131cd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Servicios departamentales.Crear nuevo activo</sys_name>
+        <sys_package display_value="Solicitudes de préstamos" source="x_76757_solicitu_0">8c2e36c3c3dc12106addb7ddd401319e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Solicitudes de préstamos">8c2e36c3c3dc12106addb7ddd401319e</sys_scope>
+        <sys_scope_delete display_value="">2a55c8f2e382492ab5706862d58c64f9</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_653cd86fc35856106addb7ddd40131cd</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_653cd86fc35856106addb7ddd40131cd">253cd86fc35856106addb7ddd40131d3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-03 10:19:49</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

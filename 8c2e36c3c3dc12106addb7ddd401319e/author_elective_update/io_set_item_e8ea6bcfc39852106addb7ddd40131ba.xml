@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item">
+    <io_set_item action="DELETE">
+        <order>100</order>
+        <sc_cat_item display_value="Solicitar el préstamo de un activo">07b26fcbc35852106addb7ddd40131b3</sc_cat_item>
+        <sys_class_name>io_set_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-02 11:42:32</sys_created_on>
+        <sys_id>e8ea6bcfc39852106addb7ddd40131ba</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>common_comments.Solicitar el préstamo de un activo</sys_name>
+        <sys_package display_value="Solicitudes de préstamos" source="x_76757_solicitu_0">8c2e36c3c3dc12106addb7ddd401319e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Solicitudes de préstamos">8c2e36c3c3dc12106addb7ddd401319e</sys_scope>
+        <sys_update_name>io_set_item_e8ea6bcfc39852106addb7ddd40131ba</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-02 11:42:32</sys_updated_on>
+        <variable_set display_value="common_comments">3820df570a0a0b2700d944110d29fc55</variable_set>
+    </io_set_item>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Solicitudes de préstamos">8c2e36c3c3dc12106addb7ddd401319e</application>
+        <file_path/>
+        <instance_id>15ee4a69eb7ac250c040fddacad0cd52</instance_id>
+        <instance_name>dev275433</instance_name>
+        <name>io_set_item_e8ea6bcfc39852106addb7ddd40131ba</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item"><io_set_item action="INSERT_OR_UPDATE"><order>100</order><sc_cat_item display_value="Solicitar el préstamo de un activo">07b26fcbc35852106addb7ddd40131b3</sc_cat_item><sys_class_name>io_set_item</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-02 11:42:32</sys_created_on><sys_id>e8ea6bcfc39852106addb7ddd40131ba</sys_id><sys_mod_count>0</sys_mod_count><sys_name>common_comments.Solicitar el préstamo de un activo</sys_name><sys_package display_value="Solicitudes de préstamos" source="x_76757_solicitu_0">8c2e36c3c3dc12106addb7ddd401319e</sys_package><sys_policy/><sys_scope display_value="Solicitudes de préstamos">8c2e36c3c3dc12106addb7ddd401319e</sys_scope><sys_update_name>io_set_item_e8ea6bcfc39852106addb7ddd40131ba</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-02 11:42:32</sys_updated_on><variable_set display_value="common_comments">3820df570a0a0b2700d944110d29fc55</variable_set></io_set_item></record_update>]]></payload>
+        <payload_hash>1947420257</payload_hash>
+        <record_name>common_comments.Solicitar el préstamo de un activo</record_name>
+        <reverted_from/>
+        <source>042e36c3c3dc12106addb7ddd40131a1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-02 11:42:32</sys_created_on>
+        <sys_id>74ea6bcfc39852106addb7ddd40131d3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>191b28b31c70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-02 11:42:32</sys_updated_on>
+        <type>Catalog Variable Set</type>
+        <update_guid>70ea6bcf7698521062ff1617cca344c6</update_guid>
+        <update_guid_history>70ea6bcf7698521062ff1617cca344c6:1947420257</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="common_comments.Solicitar el préstamo de un activo">2aeaefcbc35852106addb7ddd40131d0</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-02 11:42:39</sys_created_on>
+        <sys_db_object display_value="" name="io_set_item">io_set_item</sys_db_object>
+        <sys_id>1f323034b3c74108ac43f41c4a74b840</sys_id>
+        <sys_metadata>e8ea6bcfc39852106addb7ddd40131ba</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>common_comments.Solicitar el préstamo de un activo</sys_name>
+        <sys_package display_value="Solicitudes de préstamos" source="x_76757_solicitu_0">8c2e36c3c3dc12106addb7ddd401319e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Solicitudes de préstamos">8c2e36c3c3dc12106addb7ddd401319e</sys_scope>
+        <sys_scope_delete display_value="">2a55c8f2e382492ab5706862d58c64f9</sys_scope_delete>
+        <sys_update_name>io_set_item_e8ea6bcfc39852106addb7ddd40131ba</sys_update_name>
+        <sys_update_version display_value="io_set_item_e8ea6bcfc39852106addb7ddd40131ba">74ea6bcfc39852106addb7ddd40131d3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-02 11:42:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

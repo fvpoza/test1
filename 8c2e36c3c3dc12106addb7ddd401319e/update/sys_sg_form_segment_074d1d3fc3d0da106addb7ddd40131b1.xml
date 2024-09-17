@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_segment">
     <sys_sg_form_segment action="INSERT_OR_UPDATE">
-        <embedded_screen display_value="Detalles">c74d1d3fc3d0da106addb7ddd401318f</embedded_screen>
+        <embedded_screen display_value="Details">c74d1d3fc3d0da106addb7ddd401318f</embedded_screen>
         <form display_value="Activos disponibles Form Screen">874d1d3fc3d0da106addb7ddd401318b</form>
         <header_view_config/>
         <is_sticky>false</is_sticky>

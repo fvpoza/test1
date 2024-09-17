@@ -14,6 +14,6 @@
         <sys_update_name>sys_sg_action_param_map_2b4d9d3fc3d0da106addb7ddd40131a1</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2024-09-04 09:19:24</sys_updated_on>
-        <ui_parameter display_value="ID de sistema">e74d9d3fc3d0da106addb7ddd4013161</ui_parameter>
+        <ui_parameter display_value="Sys ID">e74d9d3fc3d0da106addb7ddd4013161</ui_parameter>
     </sys_sg_action_param_map>
 </record_update>

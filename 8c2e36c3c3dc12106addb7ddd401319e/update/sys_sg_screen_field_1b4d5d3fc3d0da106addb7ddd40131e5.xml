@@ -5,7 +5,7 @@
         <hidden>false</hidden>
         <order>60</order>
         <record_id_field/>
-        <screen display_value="Detalles">c74d1d3fc3d0da106addb7ddd401318f</screen>
+        <screen display_value="Details">c74d1d3fc3d0da106addb7ddd401318f</screen>
         <screen_data_item_table>x_76757_solicitu_0_activos_disponibles</screen_data_item_table>
         <sys_class_name>sys_sg_screen_field</sys_class_name>
         <sys_created_by>admin</sys_created_by>
